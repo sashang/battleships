@@ -78,7 +78,6 @@ module Player =
     type PlayerState =
         | Playing // when the player has ships that are not destroyed
         | Lost // when all ships destroyed
-        | Won // when other players ships are destroyed.
 
     type Player = {
         Board : Cell [,]
