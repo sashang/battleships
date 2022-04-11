@@ -43,6 +43,7 @@ A total of 1 test files matched the specified pattern.
 
 Passed!  - Failed:     0, Passed:     5, Skipped:     0, Total:     5, Duration: 6 ms - /home/sashan/tmp/test/bin/Debug/net6.0/test.dll (net6.0)
 sashan@charon ~/t/test (master)>
+```
 
 ## Test
 
