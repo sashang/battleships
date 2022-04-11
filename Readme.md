@@ -11,15 +11,6 @@ dotnet build
 ### Example output
 
 ```
-sashan@charon ~/tmp (master)> tar -xvf ~/code/battleship/battleships.tar.gz
-Domain.fs
-Program.fs
-Readme.md
-battleship.fsproj
-test/
-test/Program.fs
-test/Tests.fs
-test/test.fsproj
 sashan@charon ~/tmp (master)> dotnet build
 Microsoft (R) Build Engine version 17.0.0+c9eb9dd64 for .NET
 Copyright (C) Microsoft Corporation. All rights reserved.
@@ -55,4 +46,6 @@ sashan@charon ~/t/test (master)>
 
 ## Test
 
-```cd test; dotnet test```
+```
+cd test; dotnet test
+```
